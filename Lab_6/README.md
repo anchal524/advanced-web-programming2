@@ -1,7 +1,7 @@
 
 ## GraphQL Using Apollo Server, Apollo Client and React
 
-This is just a simple example of using GraphQL with Apollo server and a client done with Apollo Client and React
+This is a Pokemon app using GraphQL with Apollo server and a client done with Apollo Client and React. You can be a trainer, catch pokemon and release them. You can get info about each pokemon.
 
 
 ## To Run this
