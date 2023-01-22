@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is a Pinterest app where people can post the images and browse other images and mark them favourites.
 
 ## Available Scripts
 
