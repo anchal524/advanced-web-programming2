@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is a Marvel App with all the Avengers' characters information, comics, stories etc.
 
 ## Available Scripts
 
